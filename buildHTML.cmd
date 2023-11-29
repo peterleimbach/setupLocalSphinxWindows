@@ -1,0 +1,1 @@
+python -m sphinx -T -E -b html -d %AAPS%/_build/doctrees -D language=en %AndroidAPSDocs%/docs/EN %AAPS%/html
