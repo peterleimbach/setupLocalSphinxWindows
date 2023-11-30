@@ -26,7 +26,7 @@ Here environment variables for the virtual python environment are set.
 This script is generate by the installSphinxInVirtualEnvironment.cmd.
 
 ``` script
-c:\users\lei\aaps\.venv\Scripts\activate.bat
+%AAPS%\.venv\Scripts\activate.bat
 ```
 
 ### buildHTML.cmd
