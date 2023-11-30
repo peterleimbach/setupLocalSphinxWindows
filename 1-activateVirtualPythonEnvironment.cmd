@@ -1,2 +1,1 @@
-%AAPS%/.venv/Scripts/activate.bat
-
+%AAPS%\.venv\Scripts\activate.bat
