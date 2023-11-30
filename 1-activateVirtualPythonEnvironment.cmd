@@ -1,2 +1,2 @@
-c:\users\lei\aaps\.venv\Scripts\activate.bat
+%AAPS%/.venv/Scripts/activate.bat
 
